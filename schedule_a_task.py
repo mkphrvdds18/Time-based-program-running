@@ -1,7 +1,7 @@
 
-# code tested on anaconda, basic package did not have schedule, pls install items
+# code tested on anaconda win 7 win 10, basic package did not have schedule, pls install using below command
 # pip install schedule
-# to stop the job, pls press ctrl+c from keyboard
+# to stop the job, press ctrl+c from keyboard
 
 import schedule
 import time
